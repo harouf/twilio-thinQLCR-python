@@ -8,4 +8,4 @@ To use (with caution), simply do::
 
     >>> from twilio_thinQLCR_python import TwilioWrapper
     >>> wrapper = TwilioWrapper(twilio_account_sid, twilio_auth_token, thinQ_id, thinQ_token)
-    >>> print "Call sid: " + str(wrapper.call("19193365890", "19192389898"))
+    >>> print "Call sid: " + str(wrapper.call("19193365890", "19192334784"))
